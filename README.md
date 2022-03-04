@@ -7,6 +7,8 @@ The main files are *Task_1.m* and *Task_2_3.m*, other files are functions used f
 Language: **Matlab**.
 We used **Simulink** to obtain the final animation exploiting the robot model.
 
+Team: Lorenzo Balandi, Ludovica Ghinelli, Tommaso Prandin.
+
 All details can be found in the [report](https://github.com/LorenzoBalandi/Optimal-Control-of-a-Robotic-Manipulator/blob/main/Group_18_Final_Project.pdf).
 
 
